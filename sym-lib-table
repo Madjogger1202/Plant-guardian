@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLV61048DBVR")(type "KiCad")(uri "${KIPRJMOD}/Library/TLV61048DBVR.kicad_sym")(options "")(descr ""))
+)
